@@ -1,3 +1,7 @@
 body{
-  background-color: pink;
+  background-color: gray;
+}
+
+canvas#box{
+  border: solid red 0.5px;
 }
